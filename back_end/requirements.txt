@@ -1,0 +1,16 @@
+pypdf
+langchain
+chromadb # Vector storage
+pytest
+openai
+ollama
+dotenv
+groq
+langchain_community
+langchain-groq
+bcrypt
+fastapi
+uvicorn
+pymongo
+pydantic
+
